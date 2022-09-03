@@ -1,5 +1,10 @@
-### Hi there 👋
+<h1 align="center">Giuliano Mitteroheffer Morelli</h1>
+<h3 align="center">Desenvolvedor Full Stack (PERN Stack)</h3>
+
 ###### :construction: :construction_worker: :construction: (under construction)
+
+![Imagem das siglas PERN](https://github.com/Giunossauro/blob/master/Giunossauro/img/PERN.png)
+
 <!--
 **Giunossauro/Giunossauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
