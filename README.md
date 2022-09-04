@@ -2,7 +2,7 @@
 
 <h3 align="center">Desenvolvedor Full Stack (PERN Stack)</h3>
 
-<p align="center"><img src="https://github.com/Giunossauro/Giunossauro/blob/main/img/PERN2.png" alt="Imagem das siglas PERN (não carregada)" width="50%"></p>
+<p align="center"><img src="https://github.com/Giunossauro/Giunossauro/blob/main/img/PERN3.png" alt="Imagem das siglas PERN (não carregada)" width="50%"></p>
 
 <hr />
 
