@@ -9,7 +9,7 @@
 
 <p>Sei programar em outras linguagens (aliás, sei programar), mas decidi focar nas tecnologias com maior abertura no mercado.</p>
 
-<p><ins>Graças à bastante prática nas tecnologias em destaque, consigo entregar aplicações completas com qualidade dentro do tempo esperado.</ins></p>
+<p><ins>Graças à bastante prática nas tecnologias em destaque, consigo entregar aplicações completas e de alta qualidade dentro do tempo esperado.</ins></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Giunossauro&show_icons=true&theme=highcontrast&locale=pt-BR" alt="Giunossauro" /></p>
 
