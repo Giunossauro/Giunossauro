@@ -12,7 +12,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Giunossauro&show_icons=true&theme=highcontrast&locale=pt-BR" alt="Giunossauro" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giunossauro&layout=compact&langs_count=8&theme=transparent&locale=pt-BR" alt="Giunossauro" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giunossauro&layout=compact&langs_count=8&theme=highcontrast&locale=pt-BR" alt="Giunossauro" /></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/girzo/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
