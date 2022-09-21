@@ -19,3 +19,9 @@
   <a href="https://api.whatsapp.com/send?phone=5511942357682&text=Ol%C3%A1%2C+Giuliano%21"><img src="https://img.shields.io/badge/whatsapp-075e54?style=flat&logo=whatsapp" alt="WhatsApp" /></a>
   <a href="mailto:giuandroide@gmail.com"><img src="https://img.shields.io/badge/gmail-3b60c4?style=flat&logo=gmail" alt="GMail" /></a>
 </p>
+<img
+  src="https://komarev.com/ghpvc/?username=Giunossauro"
+  alt="Visits Counter"
+  srcset="https://komarev.com/ghpvc/?username=Giunossauro"
+  style="display: none;"
+>
