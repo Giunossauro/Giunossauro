@@ -23,8 +23,7 @@
 </p>
 <img
   align="center"
-  src="https://komarev.com/ghpvc/?username=Giunossauro"
-  alt="Visits Counter"
-  srcset="https://komarev.com/ghpvc/?username=Giunossauro"
-  style="opacity: 0;"
+  src="https://servidorcontato.herokuapp.com/githubvisit"
+  alt=""
+  srcset="https://servidorcontato.herokuapp.com/githubvisit"
 >
