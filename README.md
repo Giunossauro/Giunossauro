@@ -22,8 +22,9 @@
   <a href="mailto:giuandroide@gmail.com"><img src="https://img.shields.io/badge/gmail-3b60c4?style=flat&logo=gmail" alt="GMail" /></a>
 </p>
 <img
+  align="center"
   src="https://komarev.com/ghpvc/?username=Giunossauro"
   alt="Visits Counter"
   srcset="https://komarev.com/ghpvc/?username=Giunossauro"
-  style="display: none;"
+  style="opacity: 0;"
 >
