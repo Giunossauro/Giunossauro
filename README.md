@@ -23,7 +23,7 @@
 </p>
 <img
   align="center"
-  src="https://servidorcontato.herokuapp.com/githubvisit"
+  src="https://servidorcontato.herokuapp.com/githubvisits"
   alt=""
-  srcset="https://servidorcontato.herokuapp.com/githubvisit"
+  srcset="https://servidorcontato.herokuapp.com/githubvisits"
 >
