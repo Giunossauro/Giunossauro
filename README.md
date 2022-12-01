@@ -6,7 +6,9 @@
 
 <hr />
 
-<p>Sei programar em outras linguagens (aliás, sei programar), mas decidi focar nas tecnologias com maior abertura no mercado. - <strong>TODOS</strong> os códigos em meus repositórios são de minha autoria (com excessão dos "feito em aula" e das atividades em grupo do curso na Let's Code, que inclui o Hackathon).</p>
+<p>Sei programar em outras linguagens (aliás, sei programar), mas decidi focar nas tecnologias com maior abertura no mercado. - </p>
+
+<p><strong>TODOS</strong> os códigos em meus repositórios são de minha autoria (com excessão dos "feito em aula" e das atividades em grupo do curso na Let's Code, que inclui o Hackathon).</p>
 
 <p><ins>Graças à bastante prática nas tecnologias em destaque, consigo entregar aplicações completas e de alta qualidade dentro do tempo esperado.</ins></p>
 
