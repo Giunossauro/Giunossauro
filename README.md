@@ -1,4 +1,4 @@
-<h1 align="center">Giuliano Mitteroheffer Morelli<br>Full Stack Developer - Node.JS</h1>
+<h1 align="center">Giuliano Mitteroheffer Morelli</h1><h3 align="center">Full Stack Developer - Node.JS</h3>
 
 
 <p>Olá!</p>
