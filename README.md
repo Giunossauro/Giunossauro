@@ -1,12 +1,9 @@
-<h1 align="center">Giuliano Mitteroheffer Morelli</h1>
+<h1 align="center">Giuliano Mitteroheffer Morelli<br>Full Stack Developer - Node.JS</h1>
 
-<h3 align="center">Desenvolvedor Full Stack (PERN Stack)</h3>
 
-<p align="center"><img src="https://github.com/Giunossauro/Giunossauro/blob/main/img/PERN.png" alt="Imagem das siglas PERN (não carregada)" width="50%"></p>
+<p>Olá!</p>
 
-<hr />
-
-<p>Sei programar em outras linguagens (aliás, sei programar), mas decidi focar nas tecnologias com maior abertura no mercado. - </p>
+<p>Sou um desenvolvedor full-stack com ênfase no back-end. Sou fluente nas tecnologias que usam Javascript e tenho uma base sólida de conhecimento sobre a computação de um modo geral.</p>
 
 <p><strong>TODOS</strong> os códigos em meus repositórios são de minha autoria (com excessão dos "feito em aula" e das atividades em grupo do curso na Let's Code, que inclui o Hackathon).</p>
 
